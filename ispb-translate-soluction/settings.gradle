@@ -1,0 +1,2 @@
+include ':fourward-payment-canonico', ':ispb-translate-server', ':ispb-translate-client', ':fourward-logger', ':ispb-translate-data',
+rootProject.name = 'ispb-translate-soluction'
